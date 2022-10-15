@@ -1,0 +1,29 @@
+
+.dropdown-menu:hover{
+    color: aqua;
+}
+
+.navbar-brand{
+background-color: #78c2ad;
+color: white;
+font-family:  "Times New Roman", Times, serif;
+font-size: 30px;
+font-weight: bold;
+display: inline-block;
+text-align: center;
+}
+
+.navbar{
+    background-color: white;
+    height: 72px;
+}
+.collapse navbar-collapse{
+    height: 56px;
+}
+
+@media (max-width: 575px) {
+    .navbar{
+        background-color: #78c2ad;
+        height: 72px;
+    }
+}
