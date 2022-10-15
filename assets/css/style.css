@@ -14,7 +14,7 @@ text-align: center;
 }
 
 .navbar{
-    background-color: white;
+    background-color: rgb(197, 27, 27);
     height: 72px;
 }
 .collapse navbar-collapse{
@@ -26,4 +26,18 @@ text-align: center;
         background-color: #78c2ad;
         height: 72px;
     }
+    .navbar-nav{
+        margin: 20px;
+    }
 }
+
+.nav-link:hover {
+    background-color: lightgray;
+    color: #78c2ad;
+  }
+.dropdown-item:hover{
+    background-color: lightgray;
+    color: #78c2ad;
+  }
+
+ 
