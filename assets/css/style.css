@@ -26,7 +26,6 @@ text-align: center;
     background-color: var(--white);
     padding-top: 0px;
     padding-bottom: 0px;
-    height: 56px;   
 }
 .collapse navbar-collapse{
     height: 56px;
@@ -41,6 +40,10 @@ text-align: center;
      }
      .fixed-top{
         position:relative;
+   }
+   .dropdown-menu{
+    background-color: var(--white);
+    border-color: var(--white);
    }
 }
 
