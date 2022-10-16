@@ -62,11 +62,42 @@
 
         <div class="container-md position-relative" style="top: 30px">
             <div class="row justify-content-between">
-                <div class="col-md-7 text-start text-md-center  bg-white">
-                        main container
+                <div class="col-md-7 bg-white">
+                        <div>
+                            <h1 class="div-title border-bottom">
+                                Summary: Latitue vs. X
+                            </h1>
+                        </div>
+                        <div>
+                            <img src="assets/images/Latitude_vs_Temperature_Plot.png" class="float-start imgshadow p-1" alt="Summary Pic" width="50%">
+                            <p>
+                                The Pupose of this project was to analyse how weather changes as you get closer to the equator. To accomplish this analsis, we pulled data from the OpenWeatherMap API to assemble a dataset on over 500 cities.
+                            </p>
+                            <br>
+                            <p>
+                                After assembling the dataset, we used matplotlib to plot various aspects of the weather vs. latitude. Factors we included:
+                                temperature, cloudiness, wind speed and humifity. This site provides the source data and visualisations created as part of the analysis, 
+                                as well as explanations and descriptions of any trends and correlations witnessed.
+                            </p>
+                        </div>
+
                 </div>
                     <div class="col-md-4 text-start text-md-center bg-white">
-                        Side container
+                        <div>
+                            <h1 class="div-title border-bottom">
+                                Visualisations
+                            </h1>
+                        </div>
+                        <div>
+                            <a href="visualisations/temperature.html"><img src="assets/images/Latitude_vs_Temperature_Plot.png" 
+                                class="float-start link-pics p-1" alt="temp Pic" width="50%"></a>
+                             <a href="visualisations/cloudiness.html"><img src="assets/images/Latitude_vs_Cloudiness_Plot.png" 
+                                class="float-start link-pics p-1" alt="cloudy Pic" width="50%"></a>
+                            <a href="visualisations/humidity.html"><img src="assets/images/Latitude_vs_Humidity_Plot.png" 
+                                class="float-start link-pics p-1" alt="Humidity Pic" width="50%"></a>
+                            <a href="visualisations/wind.html"><img src="assets/images/Latitude_vs_Wind_Speed_Plot.png" 
+                                class="float-start link-pics p-1" alt="wind Pic" width="50%"></a>
+                        </div>
                     </div>
                 </div>
             </div>
