@@ -31,6 +31,11 @@ text-align: center;
     height: 56px;
 }
 
+.link-selected{
+    border: 0.05rem outset var(--mint);
+    border-radius: 5px;    
+}
+
 @media (max-width: 767px) {
     .navbar{
         background-color: var(--mint);
@@ -45,6 +50,14 @@ text-align: center;
     background-color: var(--white);
     border-color: var(--white);
    }
+
+   .link-pics{
+    width: 24%;
+   }
+
+   .vis-selected{
+    width: 80%;
+}
 }
 
 .nav-link:hover {
@@ -56,3 +69,9 @@ text-align: center;
     color: var(--mint);
   }
 
+  .div-title{
+    font-family:  "Times New Roman", Times, serif;
+    font-size: 35px;
+    font-weight: bold;
+    color: var(--mint);
+  }
