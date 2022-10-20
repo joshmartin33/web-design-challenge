@@ -13,10 +13,10 @@
   <p align="center">
     Latitude
     <br />
-    <a href="https://github.com/joshmartin33/web-design-challenge"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/joshmartin33/web-design-challenge" target="_blank"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://joshmartin33.github.io/web-design-challenge/">View Github pages</a>
+    <a href="https://joshmartin33.github.io/web-design-challenge/" target="_blank">View Github pages</a>
     ·
     <a href="https://github.com/joshmartin33/web-design-challenge/issues">Report Bug</a>
   </p>
@@ -62,13 +62,13 @@ After assembling the dataset, we used matplotlib to plot various aspects of the 
 </ul>
 
 <br>
-<h3><a href="https://github.com/joshmartin33/web-design-challenge">Click here to access the home page</a></h3>
+<h3><a href="https://joshmartin33.github.io/web-design-challenge/index.html" target="_blank">Click here to access the home page</a></h3>
 <br>
 
 <p>My website must consist of seven pages as follows:</p>
 <ul>
         <li>
-            <p>A <a href="https://joshmartin33.github.io/web-design-challenge/index.html">landing page</a> that contains the following elements:</p>
+            <p>A <a href="https://joshmartin33.github.io/web-design-challenge/index.html" target="_blank">landing page</a> that contains the following elements:</p>
             <ul>
                 <li>
                     <p>An explanation of the project.</p>
@@ -79,7 +79,7 @@ After assembling the dataset, we used matplotlib to plot various aspects of the 
             </ul>
         </li>
         <li>
-            <p>Four <a href="https://joshmartin33.github.io/web-design-challenge/visualisations/temperature.html">visualisation pages</a>, stored in the <code>visualisations</code> folder, each with the following elements:</p>
+            <p>Four <a href="https://joshmartin33.github.io/web-design-challenge/visualisations/temperature.html" target="_blank">visualisation pages</a>, stored in the <code>visualisations</code> folder, each with the following elements:</p>
             <ul>
                 <li>
                     <p>A descriptive title and a heading tag.</p>
@@ -93,7 +93,7 @@ After assembling the dataset, we used matplotlib to plot various aspects of the 
             </ul>
         </li>
         <li>
-            <p>A <a href="https://joshmartin33.github.io/web-design-challenge/visualisations/comparison.html">comparisons page</a> that does the following:</p>
+            <p>A <a href="https://joshmartin33.github.io/web-design-challenge/visualisations/comparison.html" target="_blank">comparisons page</a> that does the following:</p>
             <ul>
                 <li>
                     <p>Contains all the visualisations on the same page so that people can easily compare them.</p>
