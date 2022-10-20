@@ -60,7 +60,10 @@ After assembling the dataset, we used matplotlib to plot various aspects of the 
         <p>My website must be deployed to GitHub Pages.</p>
     </li>
 </ul>
-<br><br>
+
+<br>
+<h3><a href="https://github.com/joshmartin33/web-design-challenge">Click here to access the home page</a></h3>
+<br>
 
 <p>My website must consist of seven pages as follows:</p>
 <ul>
